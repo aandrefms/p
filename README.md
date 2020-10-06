@@ -16,3 +16,5 @@
 
 <a  href="https://github.com/aandrefms/projects/blob/master/imdb/imdb/spiders/imdb.py" target="_blank">Scraping dados do site IMDB</a>: O intuito deste projeto foi desenvolver um script capaz de obter informações, de forma automática, do site IMDB. Foram extraidas informações como: Nome de filmes, Nome de autores, Avaliações.<br>
 <strong>Ferramenta utilizada</strong>: Scrapy.<br>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
