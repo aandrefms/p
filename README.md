@@ -2,7 +2,7 @@
 
 # Projetos Ciência de Dados e Machine Learning
 
-<a href='https://github.com/aandrefms/projects/blob/master/Chatbot/main_portuguese_pt.py' target= '_blank' rel='noopener noreferrer'> Chatbot em Português usando redes neurais</a>: Este projeto foi desenvolvido a partir de ferramentas de Deep Learning (Redes Neurais) com o intuito de criar um chatBot sem utilizar de Codificação rígida. O banco de dados utilizado contem conversas com suas respectivas intenções ( Conversação, mercado de ações, elogios, etc.).
+<a href='https://github.com/aandrefms/projects/blob/master/Chatbot/main_portuguese_pt.py' target= '_blank' rel='noopener noreferrer'> Chatbot em Português usando redes neurais</a>: Este projeto foi desenvolvido a partir de ferramentas de Deep Learning (Redes Neurais) com o intuito de criar um chatBot sem utilizar de Codificação rígida. O banco de dados utilizado contem conversas com suas respectivas intenções ( Conversação, mercado de ações, elogios, etc.).<br>
 <strong>Ferramentas utilizadas</strong>: Redes Neurais (TensorFlow e Keras), Processamento de linguagem natural
 
 <a  href='https://github.com/aandrefms/projects/blob/master/An%C3%A1lise%20de%20Apps/App.ipynb' target="_blank" rel="noopener noreferrer">Exploração e Visualização de dados de Apps da Play Store</a>: Este trabalho de consultoria para uma Startup teve como objetivo explorar, analisar e inferir em um banco de dados de Apps da Play Store os motivos que fizeram certas categorias ou apps obterem melhor desempenho de vendas. Foram analisados aspectos como: Vantagem de ser pago ou gratuito; Tamanho do arquivo influencia no sucesso? Afim de encontrar um padrão entre os Aplicativos mais bem sucedidos<br>
