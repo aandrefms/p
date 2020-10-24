@@ -3,13 +3,13 @@
 # Projetos Ciência de Dados e Machine Learning
 
 <a href='https://github.com/aandrefms/projects/blob/master/Chatbot/main_portuguese_pt.py' target= '_blank' rel='noopener noreferrer'> Chatbot em Português usando redes neurais</a>: Este projeto foi desenvolvido a partir de ferramentas de Deep Learning (Redes Neurais) com o intuito de criar um chatBot sem utilizar de Codificação rígida. O banco de dados utilizado contem conversas com suas respectivas intenções ( conversação, mercado de ações, elogios, etc.).<br>
-<strong>Ferramentas utilizadas</strong>: Redes Neurais (TensorFlow e Keras), Processamento de linguagem natural
+<strong>Ferramentas utilizadas</strong>: Redes Neurais (TensorFlow e Keras), Processamento de linguagem natural.
 
-<a  href='https://github.com/aandrefms/projects/blob/master/An%C3%A1lise%20de%20Apps/App.ipynb' target="_blank" rel="noopener noreferrer">Exploração e Visualização de dados de Apps da Play Store</a>: Este trabalho de consultoria para uma Startup teve como objetivo explorar, analisar e inferir em um banco de dados de Apps da Play Store os motivos que fizeram certas categorias ou apps obterem melhor desempenho de vendas. Foram analisados aspectos como: Vantagem de ser pago ou gratuito; Tamanho do arquivo influencia no sucesso? Afim de encontrar um padrão entre os Aplicativos mais bem sucedidos<br>
+<a  href='https://github.com/aandrefms/projects/blob/master/An%C3%A1lise%20de%20Apps/App.ipynb' target="_blank" rel="noopener noreferrer">Exploração e Visualização de dados de Apps da Play Store</a>: Este trabalho de consultoria para uma Startup teve como objetivo explorar, analisar e inferir em um banco de dados de Apps da Play Store os motivos que fizeram certas categorias ou apps obterem melhor desempenho de vendas. Foram analisados aspectos como: Vantagem de ser pago ou gratuito; Tamanho do arquivo influencia no sucesso? Afim de encontrar um padrão entre os Aplicativos mais bem sucedidos.<br>
 <strong>Ferramentas utilizadas</strong>: Matplotlib, plotly, seaborn.<br>
 
 <a href='https://github.com/aandrefms/projects/blob/master/time_series/Untitled.ipynb' target='_blank' rel='noopener noreferrer'> Análise de série temporal</a>: Analisei os dados do consumo de energia de uma organização regional dos EUA afim de construir um modelo capaz de prever o comportamento do consumo de energia. Para isso, foram abordadas diversas técnicas e tópicos como estacionariedade e processos AR e MA.<br>
-<strong>Ferramentas utilizadas</strong>: Pandas, XgBoost, Matplotlib <br>
+<strong>Ferramentas utilizadas</strong>: Pandas, XgBoost, Matplotlib. <br>
 
 
 <a href='https://github.com/aandrefms/projects/blob/master/regression_car_price/reg01.ipynb' target='_blank'> Modelo de regressão para previsão de preços de veículos usados </a>: Este trabalho foi desenvolvido para se ajustar as necessidades de uma empresa de veículos usados em construir um catálogo eficaz de preços dos seus veículos. Para isso, desenvolvi um modelo de regressão que alcançou uma precisão de 98% de acurácia. Para isso, foram aplicadas técnicas de limpeza e transformações de dados, além de técnicas de aprendizado de máquina.<br>
