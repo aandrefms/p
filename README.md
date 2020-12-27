@@ -8,6 +8,9 @@
 <a href='https://github.com/aandrefms/projects/blob/master/Chatbot/main_portuguese_pt.py' target= '_blank' rel='noopener noreferrer'> Chatbot em Português usando redes neurais</a>: Este projeto foi desenvolvido a partir de ferramentas de Deep Learning (Redes Neurais) com o intuito de criar um chatBot sem utilizar de Codificação rígida. O banco de dados utilizado contem conversas com suas respectivas intenções ( conversação, mercado de ações, elogios, etc.).<br>
 <strong>Ferramentas utilizadas</strong>: Redes Neurais (TensorFlow e Keras), Processamento de linguagem natural (NLP).
 
+<a  href='https://github.com/aandrefms/ecommerce_db' target="_blank" rel="noopener noreferrer"> Banco de dados para Olist e-commerce</a>: Script em Python para criação de um database em snow flakes schema, afim de receber 8 tabelas e mais de 500.000 dados. Utilizei o PostgreSQL como escolha para o banco de dados, além de sqlAlchemy para inserção dos dados. O script criará automaticamente o DB (caso não exista) e as tabelas (caso não existam), além de inserir os dados (caso existam, farar o append).
+<strong>Ferramentas utilizadas</strong>: Python, PostgreSQL, SQLAlchemy, Pandas, psycopg2.
+
 <a  href='https://github.com/aandrefms/projects/blob/master/aabb.ipynb' target="_blank" rel="noopener noreferrer"> Criação de perfil do cliente utilizando Data Science</a>: Projeto realizado para o maior clube atlético de São Luís/MA afim de gerar insights para tomada de decisões do time de publicidade. Para isso, foram utilizadas ferramentas de Data Science(extração, manipulação e visualização dos dados) e também de Data Mining. Ao final, gerei um perfil de cliente que poderá atender as necessidades da empresa.<br>
 <strong>Ferramentas utilizadas</strong>: Python, Numpy, Pandas, Matplotlib, Scrapy, Selenium.
 
