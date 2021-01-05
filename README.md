@@ -1,6 +1,6 @@
 # Portfólio - André Felippe Mendes Silva
 
-# Projetos Ciência de Dados, Machine Learning e Engenharia de Dados
+# Projetos Engenharia de Dados, Ciência de Dados e Machine Learning
 
 ## Engenharia de Dados
 <a href='https://github.com/aandrefms/formulario/blob/master/main_test(1.1).py' target= '_blank' rel='noopener noreferrer'> UI de formulário com banco de dados SQL</a>: Projeto desenvolvido utilizando PyQt5 para a criação da UI e a linguagem Python para o back-end. Utilizei o PostgreSQL como escolha para o banco de dados e inclui na UI diversas funcionalidades como: Inserir, visualizar, procurar e apagar dados. Além disso, utilizei a biblioteca SQLAlchemy para incrementar a segurança e impedir SQL injections. O repositório completo pode ser acessado neste <a href='https://github.com/aandrefms/formulario' target= '_blank' rel='noopener noreferrer'>link</a>.<br>
