@@ -10,7 +10,7 @@
 <a  href='https://github.com/aandrefms/ecommerce_db' target="_blank" rel="noopener noreferrer"> Banco de dados para Olist e-commerce</a>: Script em Python para criação de um database em snow flakes schema, afim de receber 8 tabelas e mais de 500.000 dados. Utilizei o PostgreSQL como escolha para o banco de dados, além de sqlAlchemy para inserção dos dados. O script criará automaticamente o DB (caso não exista) e as tabelas (caso não existam), além de inserir os dados (caso existam, fará o append).<br>
 <strong>Ferramentas utilizadas</strong>: Python, PostgreSQL, SQLAlchemy, Pandas, psycopg2.
 
-<a  href='https://github.com/aandrefms/kafkaProject" target="_blank" rel="noopener noreferrer">Script Apache Kafka consumer-producer utilizando API</a>: Este Script fará a request da API do site OpenWeather, e então conectará um kafka producer para enviar esses dados para o localhost, e um kafka consumer para receber esses dados. Este processo visa utilizar-se do recurso de streaming de dados, ou seja, os dados são enviados e lidos de forma automática e simultânea.<br>
+<a  href='https://github.com/aandrefms/kafkaProject' target="_blank" rel="noopener noreferrer"> Script Apache Kafka consumer-producer utilizando API</a>: Este Script fará a request da API do site OpenWeather, e então conectará um kafka producer para enviar esses dados para o localhost, e um kafka consumer para receber esses dados. Este processo visa utilizar-se do recurso de streaming de dados, ou seja, os dados são enviados e lidos de forma automática e simultânea.<br>
 <strong>Ferramentas utilizadas</strong>: Apache Kafka, Python, request.
 
 ## Machine Learning e Ciência de Dados
