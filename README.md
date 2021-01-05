@@ -2,6 +2,7 @@
 
 # Projetos Ciência de Dados, Machine Learning e Engenharia de Dados
 
+# Engenharia de Dados
 <a href='https://github.com/aandrefms/formulario/blob/master/main_test(1.1).py' target= '_blank' rel='noopener noreferrer'> UI de formulário com banco de dados SQL</a>: Projeto desenvolvido utilizando PyQt5 para a criação da UI e a linguagem Python para o back-end. Utilizei o PostgreSQL como escolha para o banco de dados e inclui na UI diversas funcionalidades como: Inserir, visualizar, procurar e apagar dados. Além disso, utilizei a biblioteca SQLAlchemy para incrementar a segurança e impedir SQL injections. O repositório completo pode ser acessado neste <a href='https://github.com/aandrefms/formulario' target= '_blank' rel='noopener noreferrer'>link</a>.<br>
 <strong>Ferramentas utilizadas</strong>: Python, PyQt5, PostgreSQL, SQLAlchemy, Flask.
 
@@ -11,6 +12,7 @@
 <a  href='https://github.com/aandrefms/ecommerce_db' target="_blank" rel="noopener noreferrer"> Banco de dados para Olist e-commerce</a>: Script em Python para criação de um database em snow flakes schema, afim de receber 8 tabelas e mais de 500.000 dados. Utilizei o PostgreSQL como escolha para o banco de dados, além de sqlAlchemy para inserção dos dados. O script criará automaticamente o DB (caso não exista) e as tabelas (caso não existam), além de inserir os dados (caso existam, fará o append).<br>
 <strong>Ferramentas utilizadas</strong>: Python, PostgreSQL, SQLAlchemy, Pandas, psycopg2.
 
+# Machine Learning e Ciência de Dados
 <a  href='https://github.com/aandrefms/projects/blob/master/aabb.ipynb' target="_blank" rel="noopener noreferrer"> Criação de perfil do cliente utilizando Data Science</a>: Projeto realizado para o maior clube atlético de São Luís/MA afim de gerar insights para tomada de decisões do time de publicidade. Para isso, foram utilizadas ferramentas de Data Science(extração, manipulação e visualização dos dados) e também de Data Mining. Ao final, gerei um perfil de cliente que poderá atender as necessidades da empresa.<br>
 <strong>Ferramentas utilizadas</strong>: Python, Numpy, Pandas, Matplotlib, Scrapy, Selenium.
 
