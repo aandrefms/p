@@ -38,6 +38,8 @@
 <a  href="https://github.com/aandrefms/projects/blob/master/Stack%20Overflow/Stack%20Overflow.ipynb">Modelo para classificação utilizando Machine Learning</a>: Este trabalho foi desenvolvido com o intuito de aplicar Modelos de classificação para prever a categoria que determinada pergunta pertencia. Para isso, utilizei um dataset com 60.000 perguntas feitas no site Stack Overflow com um percentual de precisão de 88%. Foram aplicadas técnicas como <strong>vetorização</strong> e <strong>Machine Learning</strong>.<br>
 <strong>Ferramentas utilizadas</strong>: Matplotlib, seaborn, learn-scikit, skopt.<br>
 
+## Web Scraping
+
 <a href="https://github.com/aandrefms/projects/blob/master/amazon1/amazon1/spiders/books.py" target="_blank">Scraping dados do site da Amazon</a>: O intuito deste script foi colher informações de forma automática do site da Amazon (Web Scraping). Foram extraidas 1000 linhas de dados de uma categoria de livros, podendo se extender para todo o site da Amazon. Foram obtidas informações como: nome do autor, nome do livro, preço, avaliações. Web Scraping tem grande utilidade para a coleta de informações de diferentes websites.<br>
 <strong>Ferramenta utilizada</strong>: Scrapy.<br>
 
