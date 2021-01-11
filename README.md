@@ -3,6 +3,10 @@
 # Projetos Engenharia de Dados, Ciência de Dados e Machine Learning
 
 ## Engenharia de Dados
+
+<a href='https://github.com/aandrefms/OlistAWS-Airflow' target= '_blank' rel='noopener noreferrer'> ETL Pipeline em AWS S3 Data Lake e Airflow</a>: Este projeto utiliza dados reais de um e-commerce brasileiro hospedado em um AWS S3 Data Lake e se baseia na necessidade da realização de análises e modelagem constantes. Portanto, a execução deste projeto de Engenharia de Dados tem como objetivo criar uma pipeline de ETL de forma programada/automática utilizando Python, SQL, Airflow, Spark e AWS.<br>
+<strong>Ferramentas utilizadas</strong>: AWS S3, Airflow, Apache Pyspark, Python.
+
 <a href='https://github.com/aandrefms/formulario/blob/master/main_test(1.1).py' target= '_blank' rel='noopener noreferrer'> UI de formulário com banco de dados SQL</a>: Projeto desenvolvido utilizando PyQt5 para a criação da UI e a linguagem Python para o back-end. Utilizei o PostgreSQL como escolha para o banco de dados e inclui na UI diversas funcionalidades como: Inserir, visualizar, procurar e apagar dados. Além disso, utilizei a biblioteca SQLAlchemy para incrementar a segurança e impedir SQL injections. O repositório completo pode ser acessado neste <a href='https://github.com/aandrefms/formulario' target= '_blank' rel='noopener noreferrer'>link</a>.<br>
 <strong>Ferramentas utilizadas</strong>: Python, PyQt5, PostgreSQL, SQLAlchemy, Flask.
 
