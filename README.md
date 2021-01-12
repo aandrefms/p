@@ -4,7 +4,7 @@
 
 ## Engenharia de Dados
 
-<a href='https://github.com/aandrefms/OlistAWS-Airflow' target= '_blank' rel='noopener noreferrer'> ETL Pipeline em AWS S3 Data Lake e Apache Airflow</a>: Este projeto utiliza dados reais de um e-commerce brasileiro hospedado em um AWS S3 Data Lake e se baseia na necessidade da realização de análises e modelagem constantes. Portanto, a execução deste projeto de Engenharia de Dados tem como objetivo criar uma pipeline de ETL de forma programada/automática utilizando Python, SQL, Apache Airflow, Apache Spark e AWS.<br>
+<a href='https://github.com/aandrefms/OlistAWS-Airflow' target= '_blank' rel='noopener noreferrer'> ETL Pipeline em AWS S3 Data Lake e Apache Airflow</a>: Este projeto utiliza dados reais de um e-commerce brasileiro hospedado em um AWS S3 Data Lake e se baseia na necessidade da realização de análises e modelagem constantes. Portanto, a execução deste projeto de Engenharia de Dados tem como objetivo criar uma pipeline de ETL de forma programada/automática utilizando Apache Airflow, Apache Spark, AWS, Python e SQL.<br>
 <strong>Ferramentas utilizadas</strong>: AWS S3, Apache Airflow, Apache Pyspark, Python.
 
 <a  href='https://github.com/aandrefms/kafkaProject' target="_blank" rel="noopener noreferrer">API request com Apache Kafka e MongoDB</a>: Este Script fará a request da API do site OpenWeather, e então conectará um kafka producer para enviar esses dados e um kafka consumer para receber esses dados. Em seguida, esses dados são enviados para um db em MongoDB hospedado em um AWS Cluster. Este processo visa utilizar-se do recurso de streaming de dados, ou seja, os dados são enviados e lidos de forma automática e simultânea.<br>
