@@ -33,7 +33,7 @@
 
 
 <a href='https://github.com/aandrefms/projects/blob/master/regression_car_price/reg01.ipynb' target='_blank'> Modelo de regressão para previsão de preços de veículos usados </a>: Este trabalho foi desenvolvido para se ajustar as necessidades de uma empresa de veículos usados em construir um catálogo eficaz de preços dos seus veículos. Para isso, desenvolvi um modelo de regressão que alcançou uma precisão de 98% de acurácia. Para isso, foram aplicadas técnicas de limpeza e transformações de dados, além de técnicas de aprendizado de máquina.<br>
-<strong>Ferramentas utilizadas</strong>: Learn-scikit, matplotlib, plotly, seaborn.<br>
+<strong>Ferramentas utilizadas</strong>: Learn-scikit, matplotlib, plotly, seaborn.<br> 
 
 
 <a  href="https://github.com/aandrefms/projects/blob/master/Classifica%C3%A7%C3%A3o%20de%20Palavras/Classif_palavras.ipynb" target="_blank">Modelo para avaliação de comentários com Machine Learning</a>: Este trabalho foi desenvolvido com o intuito de criar um modelo, através de <strong>Machine Learning</strong>, que seja capaz de classificar comentários feitos em uma loja virtual de livros em positivos e negativos. Foram aplicados métodos de optimização de parâmetros afim de alcançar maior precisão.<br>
